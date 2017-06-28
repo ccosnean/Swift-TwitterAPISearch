@@ -1,4 +1,4 @@
-\* Swift Deck of cards project *
+\* Swift Twitter API search project *
 
 This project is an tweet search app using twitter API in swift.
 
